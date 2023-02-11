@@ -4,4 +4,8 @@ Juan Guchuvo
 
 cedula: 1069760189 Fusagasuga
 
+<<<<<<< HEAD
 escribe desde MASTER
+=======
+escribe desde DEV
+>>>>>>> Dev
