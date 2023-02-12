@@ -18,3 +18,12 @@ escribe desde DEV
 
 cambio en GITHUB
 cambio para ssh 
+
+
+
+
+
+
+
+
+pull request MASTER
