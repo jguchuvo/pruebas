@@ -15,6 +15,9 @@ escribe desde MASTER
 
 escribe desde DEV
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 524a7d67a47b2fb82b79061227893cd31a39c4d8
 >>>>>>> Dev
 
 cambio en GITHUB
@@ -27,6 +30,7 @@ cambio para ssh
 
 
 
+<<<<<<< HEAD
 pull request MASTER
 =======
 
@@ -36,3 +40,6 @@ cambio para pull request DEV
 
 arreglo 2 pull request
 >>>>>>> dev
+=======
+pull request MASTER
+>>>>>>> 524a7d67a47b2fb82b79061227893cd31a39c4d8
