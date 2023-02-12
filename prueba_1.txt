@@ -1,3 +1,38 @@
 pruebas 1.1.0
 
 Juan Guchuvo
+
+cedula: 1069760189 Fusagasuga
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+escribe desde MASTER
+=======
+escribe desde DEV
+>>>>>>> Dev
+=======
+escribe desde MASTER
+
+escribe desde DEV
+<<<<<<< HEAD
+>>>>>>> Dev
+
+cambio en GITHUB
+cambio para ssh 
+
+
+
+
+
+
+
+
+pull request MASTER
+=======
+
+cambio para pull request DEV
+
+
+
+arreglo 2 pull request
+>>>>>>> dev
