@@ -4,12 +4,29 @@ Juan Guchuvo
 
 cedula: 1069760189 Fusagasuga
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+escribe desde MASTER
+=======
+escribe desde DEV
+>>>>>>> Dev
+=======
 escribe desde MASTER
 
 escribe desde DEV
+>>>>>>> Dev
 
-cambio para pull request DEV
+cambio en GITHUB
+cambio para ssh 
 
 
 
-arreglo 2 pull request
+
+
+
+
+
+pull request MASTER
+
+
+dev
